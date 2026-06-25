@@ -1,0 +1,15 @@
+# Build and temp directories
+bin/
+obj/
+.vs/
+*.user
+*.suo
+node_modules/
+dist/
+dist-ssr/
+*.local
+.pio/
+build/
+firmware/**/secrets.h
+.DS_Store
+Thumbs.db
